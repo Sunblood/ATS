@@ -1,0 +1,12 @@
+Local admin rights have been granted to the requested PC.
+
+Please connect to the Coriant network (via VPN or in-office network) and perform these steps to update:
+1. Open the Run prompt (hold the Windows key and press R)
+2. Type the command: gpupdate /force
+3. Press Enter
+4. Wait for the black command window to disappear. It may also prompt you to reboot by typing "y" or "n".
+5. Reboot your PC
+
+Please let us know if you are able to access local admin functionality.
+
+$[3Tellabs\1Signature]

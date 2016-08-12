@@ -1,0 +1,6 @@
+Hello
+
+Please do not copy the Service Desk email address on any correspondence that does not require a ticket to be made or action to be taken.
+Otherwise, duplicate tickets may be erroneously created.
+
+$[3Tellabs\1Signature]

@@ -1,0 +1,17 @@
+Your CO-INT password has been reset to:
+Coriant16
+
+The password must be changed before you are able to log in.
+
+To change this password from a Tellabs-West or East login, follow these steps:
+1.    Connect to the Tellabs network (either via VPN or Tellabs office network)
+2.    Log into a Tellabs-West or Tellabs-East domain account
+3.    Press Ctrl+Alt+Del
+4.    Select “Change a Password”
+5.    Change the top (Username) field to CO-INT\[username]
+6.    Enter the current CO-INT password under Old Password
+7.    Enter a new desired password in the last two fields
+
+Please let us know if you are able to log in successfully.
+
+$[3Tellabs\1Signature]

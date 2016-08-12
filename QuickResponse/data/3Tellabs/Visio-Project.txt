@@ -1,0 +1,5 @@
+Microsoft %[visio-project] 2007 can be installed upon request. If you require the 2007 version, please call the Service Desk at your earliest convenience and we will install the application.
+
+Microsoft %[visio-project] 2010 or higher requires manager approval. If you require the 2010 or higher version, please let us know and we will start the approval process.
+
+$[3Tellabs\1Signature]

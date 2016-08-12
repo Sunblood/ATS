@@ -1,0 +1,8 @@
+A new account has been created for %[fullname].
+Username: %[username]
+Email: %[username]@tempel.com
+Password: Tempel123
+
+The user will be required to change passwords upon first logging into Windows.
+
+$[4Tempel Steel\1Signature]

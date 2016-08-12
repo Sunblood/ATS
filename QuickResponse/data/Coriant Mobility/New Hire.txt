@@ -1,0 +1,13 @@
+In order to proceed with ordering a new phone for %[newhire name], please provide the following information:
+
+Cost center and department: 
+Manager's email address: 
+Primary work location: 
+Shipping address: 
+Type of device: Cell phone / Air card
+If air card: Will the employee be using it outside of the US/Canada:
+If cell phone: Please choose from the following:
+iPhone 6s 16GB (Space Gray, Rose Gold, Gold, Silver)
+Samsung Galaxy S7 32GB (Black, White)
+
+$[Coriant Mobility\1Signature]

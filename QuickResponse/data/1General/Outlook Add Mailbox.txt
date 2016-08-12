@@ -1,0 +1,11 @@
+1. Open Outlook
+2. Click "File" in the top left
+3. Click "Account Settings"
+4. Click "Account Settings" in the dropdown
+5. Click the "Change" button
+6. Click the "More Settings" button
+7. On the "Advanced" tab, click "Add"
+8. Enter "%[username]"
+- If %[username] does not work, try %[fullname]
+9. Click Ok, Ok, Next, Finish (etc to close out all Settings windows)
+10. You will see the user's mailbox in the pane on the left.

@@ -1,0 +1,11 @@
+Hello,
+
+%[requestor] has requested a new phone for %[requestee]. This user is located in %[IPT Site Name].  Please respond with the following information below, which will be posted to the ticket:
+
+a.   Confirmation of Phone on the desk or procure phone
+b.   Phone Type\Mode
+c.   Data Jack location
+d.   Ext\Phone number
+e.   MAC address of the Phone
+
+$[3Tellabs\1Signature]

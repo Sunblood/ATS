@@ -1,0 +1,4 @@
+1. Click Start
+2. Right-click "Computer"
+3. Select "Properties"
+4. A new window will open. Look for the "Computer Name" field towards the center of the window.

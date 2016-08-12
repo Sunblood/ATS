@@ -1,0 +1,5 @@
+A new SAP ESS account has been created for: %[username]
+
+The user needs to change the password via Known Password Change on http://identity.tellabs.com before login will be possible.
+
+$[3Tellabs\1Signature]
